@@ -1,0 +1,45 @@
+
+<style type= "text/css">
+
+h1{
+	font-family:cursive;
+	color: lightcoral;
+}
+
+h3{text-decoration: black;
+  text-transform: capitalize;
+  color: lightcoral;
+}
+
+body {background-color: floralwhite
+}
+
+
+nav{text-transform: capitalize}
+
+p{
+	line-height: 2.5;
+}
+
+#para1{color: darkgrey}
+.para2{color: darkgrey}
+.para3{color: black}
+
+#div1{
+	border: dashed;
+	background-color: transparent;
+}
+
+form{ background-color: plum;
+padding: 15px ; 
+border-style: solid;
+
+}
+
+
+input[type=button]:hover{
+	border: solid;
+	background-color: black;
+}
+
+</style>
